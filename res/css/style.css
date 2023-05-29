@@ -1,0 +1,63 @@
+/* Utama */
+body{
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+footer{
+  padding: 15px;
+  color: black;
+  font-size: 14px;
+  bottom: 0;
+  width: 300px;
+}
+section {
+  
+}
+/* Gaya Teks */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+p, b, i {
+  
+}
+span{
+  color: red;
+}
+
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+/* Gaya Lainnya */
+ul li {
+  position: relative;
+  white-space: nowrap;
+}
+table {
+  
+}
+hr {
+
+}
+/* Class/Id */
+.selamatdatang {
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #173b6c;
+}
+
+.copyright {
+  background-color: #;
+  color: e;
+}
+
+.copyright span {
+  color: purple;
+}
