@@ -1,0 +1,15 @@
+{
+ /* Page 1 */
+"web-html.html"
+"web-css.html"
+"web-js.html"
+"serverside-php.html"
+"serverside-golang.html"
+"serverside-ruby.html"
+"appdev-cpp.html"
+"appdev-java.html"
+/* Page 2 */
+"multifunction-rust.html"
+"datascience-python.html"
+""
+}
