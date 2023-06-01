@@ -29,15 +29,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #37b3ed;
-  text-decoration: none;
-}
 /* Gaya Lainnya */
-ul li {
-  position: relative;
-  white-space: nowrap;
-}
 table {
   
 }
@@ -46,11 +38,17 @@ hr {
 }
 
 a{text-decoration: none;font-size: 20px;font-family: sans-serif;padding: 14px 10px}
+
 ul{padding: 14px}
+
 li{list-style: none; display: inline;}
+
 li a{background: #222; color:#d4d4d4;}
+
 li a:hover{background: #4da4ff; color:#fff;}
+
 .navi{background: #222; height: 50px}
+
 /* Class/Id */
 .selamatdatang {
   font-weight: bold;
